@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+My name is René. Thank You for taking the time to view my GitHub Profile 
+
+## About me 👇
+I am a PhD student and researcher in the area between statistics and deep learning, trying to teach neural networks to be a bit more transparent!
+
+I also teach Deep Learning, Statistics, Python and R coding to a range of people from undergraduates to postgraduates from a variety of disciplines.
+<!--
+## I’m currently working on 🔭
+-->
+
 
 <!--
 **RMKruse/RMKruse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
