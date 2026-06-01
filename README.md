@@ -14,26 +14,26 @@
 
 ---
 
-### 🔬 About me
+### About me
 
-I'm a statistician who fell in love with deep learning. After a PhD in Statistics at the **Centre for Statistics, University of Göttingen**, I now work as a **Data & AI Scientist**,where I turn insights from the digital world of numbers and data into something useful for us analog humans. 🌟
+I'm a statistician who fell in love with deep learning. After a PhD in Statistics at the **Centre for Statistics, University of Göttingen**, I now work as a **Data & AI Scientist**, where I turn insights from the digital world of numbers and data into something useful for us analog humans. 
 
 My research lives in the space between **statistics and deep learning** — building models that are not just accurate, but *interpretable*. I'm especially interested in **distributional and semi-parametric regression**: methods that model the whole conditional distribution, not just its mean.
 
-### 🌱 What I'm working on
+### What I'm working on
 
-- 🧠 **Interpretable deep learning** — bringing the transparency of additive models to neural networks
-- 📈 **Distributional regression** — modeling location, scale *and* shape, well beyond the mean
-- 🛠️ Open-source tooling for statisticians and ML practitioners in **R, Python, and Julia**
+- **Interpretable deep learning** — bringing the transparency of additive models to neural networks
+- **Distributional regression** — modeling location, scale *and* shape, well beyond the mean
+- Open-source tooling for statisticians and ML practitioners in **R, Python, and Julia**
 
-### 📌 Featured work
+### Featured work
 
 - **[mltpy](https://github.com/RMKruse/mltpy)** — Fit flexible conditional distributions to continuous, censored, or covariate-dependent data using monotone Bernstein polynomial transformations. `Python`
 - **[ConditionalAIC.jl](https://github.com/RMKruse/ConditionalAIC.jl)** — Conditional AIC and conditional model selection for mixed-effects models, re-platforming R's `cAIC4` onto `MixedModels.jl`. `Julia`
 - **[NAMLSS](https://arxiv.org/abs/2301.11862)** — *Neural Additive Models for Location Scale and Shape*, a framework for interpretable neural regression beyond the mean (AISTATS 2024).
 - 📖 *Learning Deep Textwork* — a book on deep learning for text data.
 
-### 🧰 Tools of the trade
+### Tools of the trade
 
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
@@ -44,7 +44,7 @@ My research lives in the space between **statistics and deep learning** — buil
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-### 💬 Ask me about
+### Ask me about
 
 Interpretable ML · distributional & additive models · teaching statistics and coding · translating research into production · and, of course, **cute kittens** 🐱
 
