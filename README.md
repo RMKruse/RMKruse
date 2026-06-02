@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm René 👋</h1>
 
 <p align="center">
-  <b>Dr. René-Marcel Kruse</b><br>
+  <b>Dr. René-M. Kruse</b><br>
   Statistician · Data & AI Scientist · AI Engineer<br>
   <i>Making neural networks a little more transparent — and statistical models a little more interesting.</i> ✨
 </p>
