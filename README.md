@@ -50,8 +50,3 @@ Interpretable ML · distributional & additive models · teaching statistics and 
 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMKruse&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMKruse&layout=compact&hide_border=true" alt="Top languages" height="150">
-</p>
